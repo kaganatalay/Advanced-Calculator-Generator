@@ -9,8 +9,11 @@ Simply because I was bored and didn't have anything better to do.
 
 ## How to use?
 *Please don't and use an actual calculator, but if you insist you want to generate the code for yourself*
-On initialization the script prompts you with the generation type (Infinite (1) | Constrained (2)). Recommended - use constrained, your pc won't be able to generate the code for infinite, as it takes almost 1157407 years to complete in a standart pc.
-After selecting constrained (2), you need to provide a range. Recommended - 10 < x < 300. Press enter and wait for the output python file under /output/calculator.py
+
+On initialization the script prompts you with the generation type (Infinite (1) | Constrained (2)). Recommended- use constrained, your pc won't be able to generate the code for infinite, as it takes almost 1157407 years to complete on a standart pc.
+
+After selecting Constrained (2), you need to provide a range. Recommended- 10 < x < 300. 
+Press enter and wait for the output python file under /output/calculator.py
 
 
 
